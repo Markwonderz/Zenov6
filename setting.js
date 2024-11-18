@@ -36,7 +36,7 @@ const Styles = (text, style = 1) => {
 };
 
 global.namaowner = "DrayXD"
-global.owner = "6283151568511"
+global.owner = "2348120055226"
 global.namabot = "Zeno-V6"
 global.botname = "Zeno-V6"
 global.simbol = "⌑"
@@ -57,7 +57,7 @@ global.packname = ""
 global.author = "Sticker By Zeno"
 
 global.namastore = "DrayXD"
-global.dana = "08811582557" // NOMER DANA KAMU
+global.dana = "2348120055226" // NOMER DANA KAMU
 global.gopay = "" // NOMER GOPAY KAMU
 global.ovo = "" // NOMER OVO KAMU
 global.shp = "" // NOMER SHOPE KAMU
